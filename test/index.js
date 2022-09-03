@@ -259,7 +259,7 @@ const clickHandler = (e) => {
     setUpQuiz();
   } else {
     window.alert(`おしまい！your score is ${score}/${problemLength}   おつかれさま💜💜💜happy 5 monthes🥰🥰`);
-    if (score >= 2) {
+    if (score >= 8) {
       document.write('<img src="./images/115411.jpg" alt="画像の解説文">');
     }
   }

@@ -1,0 +1,27 @@
+.container {
+    background-color:linear-gradient(45deg, pink, #fff)!important;
+    height: 100%;
+    width: 100%;
+}
+.home-content {
+    background-image: url();
+    height: 20px;
+    text-align: center;
+}
+.page-title h2 {
+    text-align: center;
+    justify-content: center;
+}
+#photo {
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+}
+#photo img {
+    top: 30px;
+    left: 0;
+    position: absolute;
+}
